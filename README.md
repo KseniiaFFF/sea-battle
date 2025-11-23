@@ -49,18 +49,6 @@ Bot won: <number of moves>
 
 ======
 
-🧩 Project Structure
-
-project/
-│
-├── second_sea.py                # main game code
-├── save_user_pole.txt     # saved player field
-├── save_bot_pole.txt      # saved bot field
-├── stats.txt              # game statistics
-└── README.md              # this file
-
-======
-
 🎮 How to Play
  1. Install Python 3.10+
  2. Run the game:
