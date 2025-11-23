@@ -32,10 +32,6 @@ The game saves:
  • Ship lists
  • Damaged cells
 
-Save files:
-save_user_pole.txt
-save_bot_pole.txt
-
 Load the game anytime during ship placement by entering 777.
 
 ✔ Statistics
